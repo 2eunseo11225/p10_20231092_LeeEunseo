@@ -9,7 +9,7 @@ const LINE_COLORS = {
   "2호선":"#3CB44A",
   "5호선":"#996CAC",
   "6호선":"#C55C1D",
-  "경의중앙선":"#7CC242"
+  "경의중앙선":"#77C4A3"
 };
 
 let currentTimeIndex = 0;
